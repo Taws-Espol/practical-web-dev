@@ -1,2 +1,2 @@
-# practical-web-dev
+# Practial Web Development
 BICIESPOL Prestamo de Bicicletas Online
